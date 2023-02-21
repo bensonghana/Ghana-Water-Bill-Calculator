@@ -1,6 +1,5 @@
 # Ghana-Water-Bill-Calculator
-GWCL - Ghana Water Bill Calculator
-My name is Bismark Yaw Akorli. Founder of Bensit Solutions.
+Created by Bismark Yaw Akorli. Founder of Bensit Solutions.
 
 I created this code to help Ghanaians Calculate their water bill. This will avoid GWCL personnel from cheating innocent Ghanaians.
 
