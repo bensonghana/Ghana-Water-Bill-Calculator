@@ -3,7 +3,7 @@ Created by Bismark Yaw Akorli. Founder of Bensit Solutions.
 
 I created this code to help Ghanaians Calculate their water bill. This will avoid GWCL personnel from cheating innocent Ghanaians.
 
-This code is free to use but you must credit me.
+This code is free to use for non commercial purpose but you must credit me.
 
 If you face any problem contact me at:
 Email: bigibensonmedia@gmail.com
