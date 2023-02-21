@@ -1,0 +1,91 @@
+    .form-group {
+      margin-top: 20px;
+    }
+hr {
+  border-color: red;
+}
+  .responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Style the header */
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        background-color: #fff;
+      }
+
+      /* Style the logo */
+      .logo {
+        flex: 1;
+        max-width: 100%;
+      }
+
+      .logo img {
+        display: block;
+          height: auto;
+          width: 300px;      }
+
+      /* Style the navigation menu */
+      nav {
+        flex: 1;
+        text-align: right;
+      }
+
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      nav li {
+        display: inline-block;
+        margin: 0 10px;
+      }
+
+      nav a {
+    text-decoration: none;
+    color: #173498;
+    font-weight: bold;
+}
+      
+      /* Style the links when hovered */
+      nav a:hover {
+        color: #f00;
+      }
+
+      /* Style the page content */
+      main {
+        padding: 20px;
+        background-color: #fff;
+      }
+
+      /* Media query for small screens */
+      @media (max-width: 600px) {
+        header {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .logo {
+         
+          margin-bottom: 10px;
+        }
+
+        nav {
+          text-align: left;
+        }
+      }
+
+
+.address {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
