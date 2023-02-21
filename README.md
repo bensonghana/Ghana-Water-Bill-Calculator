@@ -24,3 +24,4 @@ The rates are denominated in Ghana Pesewas.
 These approved tariffs shall remain in force until they are reviewed by the Public Utilities Regulatory Commission.
 
 Until the next major tariff review, water tariffs shall be adjusted as per the automatic adjustment (indexation) formula published in Gazette No. 15 of 25th February 2011.
+![gwcl](https://user-images.githubusercontent.com/64429317/220454629-59f4829a-b145-4f49-8a29-4a4910fbcb66.png)
