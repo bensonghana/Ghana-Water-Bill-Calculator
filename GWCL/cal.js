@@ -21,6 +21,11 @@
     var water_charge = meter_cube_of_water * approved_rate;
     var fire_fighting_fee = water_charge * 0.01;
     var rural_water_fee = water_charge * 0.02;
-    var total_bill_amount = water_charge + fire_fighting_fee + rural_water_fee;
+    var total_bill_amount = water_charge + fire_fighting_fee + rural_water_fee; 
     $('#result').html('Total Bill Amount: GH₵' + total_bill_amount.toFixed(2));
+
+    // if total bill amount results is out, show the payments form for the user to make bill payment.
+    if (total_bill_amount > 0) {
+      document.getElementById("paymentForm").style.display = 'block';
+    }
   });
