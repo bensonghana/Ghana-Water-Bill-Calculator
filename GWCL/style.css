@@ -89,3 +89,20 @@ hr {
   align-items: center;
 }
 
+.result{
+  font-weight: 700;
+}
+
+#paymentForm{
+  display: none;
+}
+
+.pay-btn{
+  background: green;
+  border: none;
+  outline: none;
+}
+
+#pay-btn:hover{
+  background-color: #06b64f;
+}
